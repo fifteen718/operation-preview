@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-6ec22d33"],{c796:function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",{staticClass:"welcomePage"},[c("p",[e._v("欢迎来到"+e._s(e.$brandInfo.brandName)+"管理后台！")])])},o=[],s=c("2877"),a={},l=Object(s["a"])(a,t,o,!1,null,null,null);l.options.__file="welcome.vue";n["default"]=l.exports},cb51:function(e,n,c){e.exports=c("c796")}}]);
+//# sourceMappingURL=chunk-6ec22d33.0ab4c9f1.js.map
